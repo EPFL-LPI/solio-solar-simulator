@@ -21,6 +21,7 @@ setuptools.setup(
         "Development Status :: 3 - Alpha"
     ],
     install_requires=[
+        'bric_arduino_controllers'
     ],
     package_data={
     }
